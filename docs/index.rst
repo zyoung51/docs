@@ -34,7 +34,6 @@ Contents
 
    introduction
    architecture
-   contributing
    devguide/index
    rackhd/index
    tutorials/index
